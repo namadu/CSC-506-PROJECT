@@ -1,0 +1,43 @@
+#navbar{
+  background-color:#fff000;
+}
+
+#registrationform{
+  padding: 150px;
+}
+
+#mainbody{
+  padding: 70px;
+}
+
+#topstories{
+  padding: 20px;
+  font-family: "timesnewroman";
+  font-size: 50px;
+}
+
+#profilepic{
+	border-radius: 50%;
+	border-color: #FFF000;
+	border-style: solid;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#login{
+
+	padding: 100px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
